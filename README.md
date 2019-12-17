@@ -11,7 +11,7 @@ virtualenv --python=python3 env
 
 Then i would install the requirement
 ```
-pip install -r requirements.tx
+pip install -r requirements.txt
 ````
 
 Locate the Code folder and run app.py file:
